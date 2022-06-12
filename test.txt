@@ -5,4 +5,4 @@ insert
 and simple
 
 
-and simple 12
+and simple $ 12
