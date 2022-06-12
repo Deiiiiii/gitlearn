@@ -6,4 +6,9 @@ and simple
 
 
 and simple # 12
+<<<<<<< HEAD
 This is the second line && Simple
+=======
+This is the second line and Simple
+dsf
+>>>>>>> feature1
