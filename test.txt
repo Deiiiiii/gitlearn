@@ -6,4 +6,4 @@ and simple
 
 
 and simple # 12
-This is the second line and Simple
+This is the second line && Simple
