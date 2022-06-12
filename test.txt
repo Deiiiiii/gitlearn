@@ -6,4 +6,8 @@ and simple
 
 
 and simple # 12
+<<<<<<< HEAD
 This is the second line AND Simple
+=======
+This is the second line AND Simple
+>>>>>>> main
